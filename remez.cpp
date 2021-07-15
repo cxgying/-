@@ -155,7 +155,7 @@
   double remz::func (double x)    //计算函数f(x)值
   {
       double y=0.0;
-      y=exp(x);
+      y=sqrt(x);
       return y;
   }
 
