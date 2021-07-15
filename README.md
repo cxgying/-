@@ -7,6 +7,9 @@
 # remez.cpp
 这是一个计算给定区间上函数的最佳一致逼近多项式的C++程序。
 该程序非原创，来自《计算机常用数值算法与程序-C++版》。
-# B_Spline_wave_equation.m
+# B_spline_wave_equation.m
 这是一个MATLAB脚本文件，求解一维波动方程，方法为三次三角B样条配点法，并与精确解进行了对比，精度很高.算法来自
+Abbas M ,  Majid A A ,  Ismail A , et al. The application of cubic trigonometric B-spline to the numerical solution of the hyperbolic problems[J]. Applied Mathematics and Computation, 2014
+# B_spline_reaction_diffusion_equation.m
+这是一个MATLAB脚本文件，求解一维反应扩散方程，方法为三次三角B样条配点法，并与精确解进行了对比，精度很高.算法来自
 Abbas M ,  Majid A A ,  Ismail A , et al. The application of cubic trigonometric B-spline to the numerical solution of the hyperbolic problems[J]. Applied Mathematics and Computation, 2014
