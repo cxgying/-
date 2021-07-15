@@ -9,7 +9,7 @@ rho_alpha=1.225;
 %% Theodosren函数句柄之定义
 C=@(k)(besselh(1,2,k)/(besselh(1,2,k)+1i*besselh(0,2,k)));
 %% 循环参数
-k_set=0.05:0.002:10;
+k_set=0.05:0.005:10;
 ictrl=1;dataA=zeros(10,2);
 %% 计算广义特征值问题
 for k=k_set
