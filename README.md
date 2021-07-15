@@ -13,3 +13,5 @@ Abbas M ,  Majid A A ,  Ismail A , et al. The application of cubic trigonometric
 # B_spline_reaction_diffusion_equation.m
 这是一个MATLAB脚本文件，求解一维反应扩散方程，方法为三次三角B样条配点法，并与精确解进行了对比，精度很高.算法来自
 Abbas M ,  Majid A A ,  Ismail A , et al. The application of cubic trigonometric B-spline to the numerical solution of the hyperbolic problems[J]. Applied Mathematics and Computation, 2014
+# D3R8G2_Elem_Stiffness_Matrix.m
+这是一个MATLAB函数文件，用于计算【三维八节点六面体单元】的单元刚度矩阵，数值积分方法为二阶高斯积分
