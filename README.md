@@ -15,3 +15,5 @@ Abbas M ,  Majid A A ,  Ismail A , et al. The application of cubic trigonometric
 Abbas M ,  Majid A A ,  Ismail A , et al. The application of cubic trigonometric B-spline to the numerical solution of the hyperbolic problems[J]. Applied Mathematics and Computation, 2014
 # D3R8G2_Elem_Stiffness_Matrix.m
 这是一个MATLAB函数文件，用于计算【三维八节点六面体单元】的单元刚度矩阵，数值积分方法为二阶高斯积分
+# dE.m
+扩散方程的显格式求解
